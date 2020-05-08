@@ -1,0 +1,559 @@
+.header{
+  background-color: rgb(49,109,195);
+  height: 45px;
+  width: 1370px;
+  
+  
+}
+.para{
+  text-align: center;
+    position: absolute;
+    right: 30%;
+    top: 10px;
+    font: size 40px;
+    font-family: 'Roboto', sans-serif;
+    color: ivory;
+  
+
+}
+.fb{
+  position: absolute;
+  left: 100px;
+  top: 10px;
+}
+.tw{
+  position: absolute;
+  left: 140px;
+  top: 10px;
+}
+.insta{
+  position: absolute;
+  left: 180px;
+  top: 10px;
+}
+.you{
+  position: absolute;
+  left: 220px;
+  top: 10px;
+}
+.wht{
+  position: absolute;
+  left: 260px;
+  top: 10px;
+}
+.btn{
+  position: absolute;
+  right: 50px;
+  top: 1px;
+   
+}
+  .homed{
+    position: absolute;
+    right: 700px;
+    top: 60px;
+  }
+  .abouta{
+    position: absolute;
+    right: 620px;
+    top: 60px;
+  }
+  .services{
+    position: absolute;
+    right: 480px;
+    top: 60px;
+  }
+  .project{
+    position: absolute;
+    right: 360px;
+    top: 60px;   
+  }
+  .media{
+    position: absolute;
+    right: 290px;
+    top: 60px;
+  }
+  .news{
+    position: absolute;
+    right: 230px;
+    top: 60px;
+  }
+  .donation{
+    position: absolute;
+    right: 140px;
+    top: 60px;
+  }
+  .headnav{
+    background-color: rgb(247,248,250);
+    height: 70px;
+  }
+  .navlogo{
+    position: absolute;
+    left: 100px;
+    top: 50px;
+
+  }
+  .dropdown{
+    position: relative;
+    display: inline-block;
+  }
+  .para2{
+    text-align: justify;
+    text-align: center;
+    padding-left: 150px;
+    padding-right: 150px;
+  }
+  .intro{
+    text-align: center;
+    padding-top: 50px;
+    font-family: 'Merriweather', serif;
+    background-color: rgb(247,248,250);
+    height: 600px;
+    
+    
+  }
+  .introh{
+    color: green;
+  }
+  .row{
+    background-color: rgb(49,109,195);
+    height: 30px;
+    width: 1200px;
+    position: absolute;
+    left: 100px;
+    
+  }
+  .o{
+    position: absolute;
+    top: -15px;
+    
+  }
+  .carousel-inner{
+    padding-bottom: 20px;
+  }
+  .intrologo{
+    padding-top: 10px;
+    padding-bottom: 15px;
+  }
+  .div1{
+    background-color:rgb(39,85,233);
+    height: 200px;
+    width: 330px;
+    display: inline-block;
+    float: left;
+    padding-top: 30px;
+    
+
+  }
+  .div2{
+    background-color:rgb(39,85,233);
+    height: 200px;
+    width: 330px;
+    display: inline-block;
+    float: left;
+    padding-top: 30px;
+
+  }
+  .div3{
+    background-color:rgb(39,85,233);
+    height: 200px;
+    width: 330px;
+    display: inline-block;
+    float: left;
+    padding-top: 30px;
+    
+
+  }
+  .div4{
+    background-color:rgb(39,85,233);
+    height: 200px;
+    width: 350px;
+    display: inline-block;
+    float: left;
+    padding-top: 30px;
+
+    
+
+  }
+  .imgam{
+    height: 50px;
+    width: 50px;
+    align-items: center;
+    
+  }
+.div1 p{
+  font-family: 'Merriweather', serif;
+  font-size: 16px;
+  font-family: serif;
+  color: white;
+  
+  
+}
+.div2 p{
+  font-family: 'Merriweather', serif;
+  font-size: 16px;
+  font-family: serif;
+  color: white;
+  
+}
+.div3 p{
+  font-family: 'Merriweather', serif;
+  font-size: 16px;
+  font-family: serif;
+  color: white;
+  
+}
+.div4 p{
+  font-family: 'Merriweather', serif;
+  font-size: 16px;
+  font-family: serif;
+  color: white;
+  
+}
+.what{
+  text-align: center;
+  
+font-family: 'Merriweather', serif;
+  
+  
+}
+.whatlogo{
+  position: absolute;
+  left: 660px;
+  margin-top: 10px;
+}
+.first{
+  
+background-color:  rgb(255,255,255);
+  height: 150px;
+  width: 300px;
+  margin-top: 100px;
+  margin-left: 200px;
+  padding-top: 20px;
+  box-shadow: 2px 2px 10px darkgrey 
+  
+}
+.second{
+  background-color:  rgb(255,255,255);
+  height: 150px;
+  width: 300px;
+  margin-top: -150px;
+  margin-left: 530px;
+  box-shadow: 2px 2px 10px darkgrey 
+}
+.third{
+  background-color:  rgb(255,255,255);
+  height: 150px;
+  width: 300px;
+  margin-top: -150px;
+  margin-left: 860px;
+  box-shadow: 2px 2px 10px darkgrey 
+}
+.firstimg{
+  position: absolute;
+  left: 300px;
+  padding-top: 0px;
+  
+}
+.firstp{
+  position: absolute;
+  left: 250px;
+  padding-top: 90px;
+}
+.secondimg{
+  position: absolute;
+  left: 630px;
+  padding-top: 10px;
+}
+.secondp{
+  position: absolute;
+  left: 630px;
+  padding-top: 100px; 
+}
+.thirdimg{
+  position: absolute;
+  left: 960px;
+  padding-top: 12px;
+
+}
+.thirdp{
+  position: absolute;
+  left: 960px;
+  padding-top: 100px;
+}
+.four{
+background-color:  rgb(255,255,255);
+  height: 150px;
+  width: 300px;
+  margin-top: 25px;
+  margin-left: 200px;
+  padding-top: 10px;
+  box-shadow: 2px 2px 10px darkgrey 
+
+}
+.five{
+  background-color:  rgb(255,255,255);
+  height: 150px;
+  width: 300px;
+  margin-top: -150px;
+  margin-left: 530px;
+  box-shadow: 2px 2px 10px darkgrey 
+}
+.six{
+  background-color: rgb(255,255,255);
+  height: 150px;
+  width: 300px;
+  margin-top: -150px;
+  margin-left: 860px;
+  box-shadow: 2px 2px 10px darkgrey 
+}
+.fourimg{
+  position: absolute;
+  left: 300px;
+  padding-top: 10px; 
+}
+.fourp{
+  position: absolute;
+  left: 250px;
+  padding-top: 100px; 
+}
+.fiveimg{
+  position: absolute;
+  left: 630px;
+  padding-top: 20px; 
+}
+.fivep{
+  position: absolute;
+  left: 630px;
+  padding-top: 110px; 
+}
+.siximg{
+  position: absolute;
+  left: 960px;
+  padding-top: 20px; 
+}
+.sixp{
+  position: absolute;
+  left: 940px;
+  padding-top: 110px;
+}
+.imgdivhead{
+  background-color:rgb(247,248,250);
+  height: 700px;
+  width: 1360px;
+}
+
+.mission{
+  position: absolute;
+  margin-left: 200px;
+  margin-top: 50px;
+  color: blue;
+}
+.upcoming{
+  position: absolute;
+  margin-left: 900px;
+  margin-top: 50px;
+  color: blue;
+}
+.hep{
+  background-color:  rgb(247,248,250);
+  height: 70px;
+  width: 320px;
+  margin-top: 100px;
+  margin-left: 200px;
+  padding-top: 20px;
+  border-color:  rgb(210, 214, 223);
+  border-style: outset; 
+}
+.hou{
+  background-color:  rgb(247,248,250);
+  height: 70px;
+  width: 320px;
+  margin-top: -70px;
+  margin-left: 550px;
+  padding-top: 20px;
+  border-color:  rgb(210, 214, 223);
+  border-style: outset;
+  
+}
+.hepimg{
+  position: absolute;
+  left: 220px;
+}
+.heptext{
+  position: absolute;
+  left: 270px;
+}
+.houimg{
+  position: absolute;
+  left: 560px;
+}
+.houtext{
+  position: absolute;
+  right: 505px;
+}
+.laptop{
+  position: absolute;
+  margin-left: 200px;
+  margin-top: 50px;
+}
+.tharr{
+  position: absolute;
+  margin-left: 900px;
+  margin-top: 50px;
+}
+.lap{
+  background-color:  rgb(247,248,250);
+  height: 70px;
+  width: 320px;
+  margin-top: 30px;
+  margin-left: 200px;
+  padding-top: 20px;
+  border-color:  rgb(210, 214, 223);
+  border-style: outset;
+}
+.thaa{
+  background-color:  rgb(247,248,250);
+  height: 70px;
+  width: 320px;
+  margin-top: -70px;
+  margin-left: 550px;
+  padding-top: 20px;
+  border-color:  rgb(210, 214, 223);
+  border-style: outset; 
+}
+.lapimg{
+  position: absolute;
+  left: 220px; 
+  margin-top: -5px;
+}
+.laptext{
+  position: absolute;
+  left: 270px;
+  margin-top: -5px; 
+}
+.tharrimg{
+  position: absolute;
+  left: 565px;
+  margin-top: -5px;
+}
+.thaatext{
+  position: absolute;
+  right: 570px;
+  margin-top: -5px; 
+}
+.mark{
+  position: absolute;
+  right: 200px;
+  margin-top: 100px;
+  background-color: rgb(255,255,255);
+
+}
+.gal{
+
+position: absolute;
+margin-top: 30px;
+margin-left: 500px;
+
+}
+.galslogo{
+  position: absolute;
+  margin-top: 100px;
+  margin-left: 650px;
+}
+.gallimg{
+  margin-top: 300px;
+  display: inline-block;
+  
+}
+.firsti{
+  position: absolute;
+  left: 170px;
+  margin-top: -100px;
+}
+.secondi{
+  position: absolute;
+  left: 430px;
+  margin-top: -100px;
+}
+.thirdi{
+  position: absolute;
+  left: 690px;
+  margin-top: -100px;
+}
+
+.fivei{
+  position: absolute;
+  left: 950px;
+  margin-top: -100px;
+}
+.footer{
+  height: 340px;
+  width: 1370px;
+  background-color: rgb(37,39,46);
+  position: absolute;
+  margin-top: 200px;
+  color:white;
+  font-size: 14px;
+}
+
+.footfirst{
+  position: absolute;
+  margin-top: 50px;
+  margin-left: 100px;
+}
+.useful{
+  position: absolute;
+  margin-top: 50px;
+  margin-left: 550px;
+  font-size: 20px;
+  }
+  .connect{
+    position: absolute;
+  margin-top: 50px;
+  margin-left: 900px;
+  font-size: 20px;
+  }
+  .ftimg{
+    height: 30px;
+    width: 30px;
+    
+  }
+  .ftfb{
+    position: absolute;
+    margin-top: 80px;
+  margin-left: 900px;
+  
+  }
+  .fttw{
+    position: absolute;
+    margin-top: 80px;
+  margin-left: 940px;
+  
+  
+  }
+  .ftinsta{
+    position: absolute;
+    margin-top: 80px;
+  margin-left: 980px;
+  
+  }
+  .ftyou{
+    position: absolute;
+    margin-top: 80px;
+  margin-left: 1015px;
+  
+  }
+  .lasst{
+    height: 50px;
+    width: 1370px;
+    background-color: rgb(49,109,217);
+    position: absolute;
+    margin-top: 540px;
+color: white;
+font-size: 15px;    
+  }
+  .lastp{
+    position: absolute;
+    left: 100px;
+    top: 15px;
+  }
